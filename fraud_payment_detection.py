@@ -11,7 +11,7 @@ st.markdown(
 )
 st.markdown(
     """
-    <div style="text-align: center; color: #555;">
+    <div style="text-align: center; color: #fff;">
         <p>Detect fraudulent transactions by entering details manually or uploading a dataset.</p>
     </div>
     """,
